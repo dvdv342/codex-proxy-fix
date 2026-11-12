@@ -1,5 +1,5 @@
 # codex-proxy-fix
-「Windows 通过代理软件下的 Codex 代理检测与修复工具」
+「针对Windows 使用代理软件的情况下Codex 重连5次的检测与修复工具」
 # Codex 代理修复工具
 
 用于 Windows，帮助排查 Codex 桌面版反复重连的问题。脚本会探测
